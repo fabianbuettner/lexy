@@ -73,6 +73,8 @@ set(header_files
         ${include_dir}/dsl/identifier.hpp
         ${include_dir}/dsl/if.hpp
         ${include_dir}/dsl/integer.hpp
+        ${include_dir}/dsl/list.hpp
+        ${include_dir}/dsl/literal.hpp
         ${include_dir}/dsl/lookahead.hpp
         ${include_dir}/dsl/loop.hpp
         ${include_dir}/dsl/member.hpp
